@@ -42,7 +42,7 @@ It should return something like this:
   "label": "",
   "propertySources": [
     {
-      "name": "https://github.com/Oreste-Luci/netflix-oss-example-config-repo/serviceB.properties",
+      "name": "https://github.com/marsma/spring-cloud-microservices-repo/serviceB.properties",
       "source": {
         "default.message": "From default file"
       }
@@ -58,13 +58,13 @@ Result:
   "label": "",
   "propertySources": [
     {
-      "name": "https://github.com/Oreste-Luci/netflix-oss-example-config-repo/serviceB-local.properties",
+      "name": "https://github.com/marsma/spring-cloud-microservices-repo/serviceB-local.properties",
       "source": {
         "default.message": "From local file"
       }
     },
     {
-      "name": "https://github.com/Oreste-Luci/netflix-oss-example-config-repo/serviceB.properties",
+      "name": "https://github.com/marsma/spring-cloud-microservices-repo/serviceB.properties",
       "source": {
         "default.message": "From default file"
       }
